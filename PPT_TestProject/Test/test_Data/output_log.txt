@@ -1,0 +1,74 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 (ID=0x1381)
+    Vendor:   NVIDIA
+    VRAM:     1974 MB
+    Driver:   9.18.13.3494
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ZroeX\PPT_Unity_Project\PPT_TestProject\Test\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.922480 ms
+l = 2, r = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ first
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A = 2 , aStart = 0 , B = 2 , BStart = 0 , k = 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-------------
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A = 2 , aStart = 1 , B = 2 , BStart = 0 , k = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+second
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A = 2 , aStart = 0 , B = 2 , BStart = 0 , k = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-------------
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A = 2 , aStart = 1 , B = 2 , BStart = 0 , k = 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-------------
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A = 2 , aStart = 2 , B = 2 , BStart = 0 , k = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21ec -> priority: 1 
